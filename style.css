@@ -55,8 +55,12 @@ main {
 
 h1 {
    color: #fff;
+   font-size: 24px;
+
 }
 
 footer {
-   background-color: #5b8ae2
+   background-color: #5b8ae2;
+   padding: 15px 25px;
+   color: #fff
 }
