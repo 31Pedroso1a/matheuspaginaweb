@@ -4,7 +4,7 @@
 }
 
 .cabecalho { 
-  background-color: #7e3e1c; 
+  background-color: #4e97c7; 
   padding: 15px 25px; 
   display: flex; 
   justify-content: space-between; 
@@ -24,7 +24,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: #f5f2f2;
+    background-color: #88d5f3ec;
 }
 
 main {
